@@ -1,0 +1,21 @@
+.selectedSlider {
+    transform: scale(0.8);
+}
+
+.slider {
+    transform: scale(0.2);
+    transition: transform 300ms;
+}
+
+.imgBlock {
+    height: 50%;
+
+}
+
+.informBlock {
+    padding: 10px;
+    height: 50%;
+    text-align: center;
+    background: white;
+    color: black;
+}
